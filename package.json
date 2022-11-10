@@ -1,0 +1,24 @@
+{
+  "name": "conversor-de-moedas",
+  "version": "1.0.0",
+  "description": "Conversor de Moedas",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiagopxavier/conversor-de-moedas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thiagopxavier/conversor-de-moedas/issues"
+  },
+  "homepage": "https://github.com/thiagopxavier/conversor-de-moedas#readme",
+  "dependencies": {
+    "sweetalert2": "^11.6.8",
+    "vite": "^3.2.3"
+  }
+}
