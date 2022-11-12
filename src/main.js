@@ -1,4 +1,6 @@
 import Swal from 'sweetalert2';
+import './style.css'
+
 
 const searchButton = document.querySelector('.search-btn');
 const coinInput = document.querySelector('#coint-input');
